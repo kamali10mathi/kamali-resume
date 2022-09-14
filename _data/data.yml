@@ -63,10 +63,9 @@ projects:
   title: Projects
   intro: 
   items:
-    - name: Java Programming for Complete Beginners
-      link: https://www.google.com
+    - name: Automatic Pill Recognition and Recommendation System
       details: |
-        Project Foo's detail, you can write markdown format text.
+        IoT and Deep learning techniques to help elders in Pill recognition.
 
     - name: Bar
       link:
