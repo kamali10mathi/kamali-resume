@@ -1,26 +1,26 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Kamali Mathiazhagan
+  title: Graduate Software Engineer
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
-  wechat:
+  email: kamalimathi10@gmail.com
+  phone: +353(89)9725363 
+  website: https://kamali10mathi.github.io/kamali-resume/
+  linkedIn: https://www.linkedin.com/in/kamali-mathiazhagan/
   whatsapp:
   telegram:
-  github: github
+  github: https://github.com/kamali10mathi
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
   linkedin:
   medium:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
