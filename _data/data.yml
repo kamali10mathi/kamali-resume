@@ -47,18 +47,17 @@ experiences:
         + Participated in requirement analysis and sprint planning.
         + Involved in design and development of application in agile environment.
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
+    - role: Graduate Trainee
+      time: 2021-08 - 2021-11
+      company: PanTech Technologies
       tag: Remote, part-time
-      location: Beijing
+      location: Chennai
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
+        Internet of Things (IoT) Training.
+        + Documentation of design work on confluence page.
+        + Imported data into MS Excel and prepared graphical representation of data.
+        + Assisted team with day to day task.
+        
 projects:
   display: true
   title: Projects
