@@ -153,10 +153,12 @@ interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: Cleaning the beach during weekends in Chennai, India.
       link:
-    - item: Cooking
+    - item: Volunteering Blood donation camp in College
       link:
+    - item: Hiking during weekend and Ball Badminton
+      link:  
 
 evaluation:
   display: true
