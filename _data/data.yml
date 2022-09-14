@@ -120,7 +120,7 @@ certificates:
       details: |   
       
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
