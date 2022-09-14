@@ -1,8 +1,8 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Kamali Mathiazhagan
+  title: Graduate Software Engineer
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
