@@ -120,9 +120,9 @@ certificates:
       link: 
       details: |      
 
-accomplisment:
+accomplishments:
   display: true
-  title: Accomplisment
+  title: Accomplishments
   details: |
   Collaborated with team of 5 to develop a web page for college using HTML, CSS.
   
