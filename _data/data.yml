@@ -100,45 +100,6 @@ education:
         + Participated in National Level Workshop on Artificial Intelligence. Actively involved in IoT workshops.
         
 
-certificates:
-  display: true
-  title: Certificates
-  items:
-    - name: Java Programming for Complete Beginners
-      authority: Udemy
-      time: 2022
-      link: https://www.udemy.com/certificate/UC-d31566d3-7f58-423a-a5eb-75d876f6dbf7/
-      details: |
-    - name: Java (Basic)
-      authority: HackerRank
-      time: 2022
-      link: https://www.hackerrank.com/certificates/b1c81469a30b
-      details: |
-    - name: Robotics and Automation
-      authority: Udemy
-      time: 2021
-      link: 
-      details: |      
-
-accomplishments:
-  display: true
-  title: Accomplishments
-  details: |
-  Collaborated with team of 5 to develop a web page for college using HTML, CSS.
-  
-    
-
-interests:
-  display: true
-  title: Interests & Hobbies
-  items:
-    - item: Cleaning the beach during weekends in Chennai, India.
-      link:
-    - item: Volunteering Blood donation camp in College
-      link:
-    - item: Hiking during weekend and Ball Badminton
-      link:  
-
 footer:
   display: true
 
