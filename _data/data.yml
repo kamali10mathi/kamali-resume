@@ -1,26 +1,26 @@
 basic:
-  name: Kamali Mathiazhagan
-  title: Graduate Software Engineer
+  name: Foo Bar
+  title: Backend Developer
   avatar:
-    display: false
+    display: true
     path: profile.png
 
 contact:
   location:
-  email: kamalimathi10@gmail.com
-  phone: (+353)-899725363
+  email: me@example.com
+  phone: +86-111-2222-3333
   website: example.com
   wechat:
   whatsapp:
   telegram:
-  github: 
+  github: github
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin: https://www.linkedin.com/in/kamali-mathiazhagan/
+  linkedin:
   medium:
-  twitter: 
+  twitter: twitter
   stackoverflow:
   quora:
   goodreads:
@@ -37,36 +37,27 @@ profile:
 
 experiences:
   display: true
-  title: Car Rental
+  title: Experiences
   items:
-    - role: Graduate Intern
-      time: 2021.12 - 2022.03
+    - role: Backend Developer
+      time: 2018.03 - 2019.03
       company: Second Company
       tag:
-      location:Bangalore
+      location: Beijing
       details: |
-        Experience in this company:PoC on creation of REST API for currency conversion - Java, Spring Boot
-Participated in requirement analysis and sprint planning.
-Involved in design and development of application in agile
-environment.
-Research on data analytics tools for team analytical needs.
+        Experience in this company:
         + First
         + Second
 
         ...
 
-    - role: Graduate Trainee
-      time: 2021.08 - 2021.11
-      company: Pantech Technologies
-      tag:  
-      location: Chennai
+    - role: Backend Developer
+      time: 2017.03 - 2018.03
+      company: First Company
+      tag: Remote, part-time
+      location: Beijing
       details: |
-        Experience in this company:Internet of Things (IoT) Training
-Worked with senior employers to understand project and company.
-Documentation of design work on confluence page.
-Imported data into MS Excel and prepared graphical representation of
-data.
-Assisted team with day to day task
+        Experience in this company:
         + First
         + Second
 
@@ -74,10 +65,10 @@ Assisted team with day to day task
 
 projects:
   display: true
-  title:  Automatic Pill Recognition and Recommendation System ,Liquid level monitoring system
-  intro:  IoT and Deep learning techniques to help elders in Pill recognition
-          Innovative device to monitor the liquid level.
-    
+  title: Projects
+  intro: |
+    This is all the projects I'm involved in.
+
   items:
     - name: Foo
       link: https://www.google.com
@@ -94,40 +85,29 @@ skills:
   title: Skills
   details: |
     Here is my skills:
-    + First :  Web Designing (HTML, CSS)
-    + Second : Software Programming Language (Java), SQL
-               Google Workspace
-               Strong Analytical and problem Solving
+    + First
+    + Second
 
     ...
 
   levels:
-    - name: Web Designing (HTML, CSS)
+    - name: Skill A
       level: 90
-    - name: Software Programming Language (Java), SQL
+    - name: Skill B
       level: 80
-    - name: Strong Analytical and problem Solving
+    - name: Skill C
       level: 70
 
 education:
   display: true
   title: Education
   items:
-    - university: Anna University
-      time: 2018- 2022
-      major: Electronics and Communication Engineering
-      degree:Bachelor
+    - university: Example University
+      time: 2015 - 2018
+      major: Machine Learning
+      degree: Master
       details: |
         Experience in this university:
-        CGPA 8.1 - 1:1 Equivalent
-                   Received scholarship for excellent performance for two consecutive
-academic years.
-                    Awarded Best Female Leadership for excellent leadership and teamwork for conducting college event.
-                    Team member of college level Ball Badminton
-                    Elected to Assistant Representative for Electrical department
-representing 80+ students in 2021.
-                    Participated in National Level Workshop on Artificial Intelligence.
-                    Actively involved in IoT workshops.
         + First
         + Second
 
@@ -144,20 +124,20 @@ representing 80+ students in 2021.
 
         ...
 
-certificates: https://www.udemy.com/certificate/UC-d31566d3-7f58-423a-a5eb-75d876f6dbf7/
+certificates:
   display: true
-  title: Udemy 
+  title: Certificates
   items:
-    - name: Course JAVA
-      authority: Udemy
-      time: 2022
-      link: https://www.udemy.com/course/java-programming-tutorial-for-beginners/learn/lecture/9565396#overview
+    - name: Course Foo
+      authority: Coursera
+      time: 2020
+      link:
       details: |
-        It's my Course Foo certificate by Udemy.
-    - name: Course JAVA Basics
-      authority: Hackeranck
-      time: 2022
-      link: https://www.hackerrank.com/certificates/b1c81469a30b
+        It's my Course Foo certificate by coursera.
+    - name: Course Bar
+      authority: Coursera
+      time: 2020
+      link: https://www.google.com
       details: |
 
 publications:
@@ -176,11 +156,18 @@ publications:
       conference: Foobar, 2019
       link:
 
+patents:
+  display: true
+  title: Patents
+  details: |
+    This is all my patents.
+    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
+
 languages:
   display: true
   title: Languages
   items:
-    - idiom: Telugu
+    - idiom: Chinese
       level: Native
     - idiom: English
       level: Professional
@@ -188,10 +175,7 @@ languages:
 interests:
   display: true
   title: Interests
-  items: Cleaning the beach during weekends in Chennai, India.
-         Volunteering Blood donation camp in College
-         Hiking during weekend
-         Ball Badminton
+  items:
     - item: Reading
       link:
     - item: Cooking
