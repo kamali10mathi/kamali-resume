@@ -77,11 +77,11 @@ skills:
   title: Skills 
   details: |
 
-    + Programming Language : Java, SQL
-    + Methodology          : Agile
-    + Framework            : Spring
-    + Tools                : Jira, Git, MS Suite, GSuite
-    + Web Technologies     : HTML, CSS
+    - Programming Language : Java, SQL
+    - Methodology          : Agile
+    - Framework            : Spring
+    - Tools                : Jira, Git, MS Suite, GSuite
+    - Web Technologies     : HTML, CSS
 
 education:
   display: true
@@ -104,72 +104,34 @@ certificates:
   display: true
   title: Certificates
   items:
-    - name: Java Programming for Complete Beginners
+    + name: Java Programming for Complete Beginners
       authority: Udemy
       time: 2022
       link: https://www.udemy.com/certificate/UC-d31566d3-7f58-423a-a5eb-75d876f6dbf7/
       details: |
-    - name: Java (Basic)
+    + name: Java (Basic)
       authority: HackerRank
       time: 2022
       link: https://www.hackerrank.com/certificates/b1c81469a30b
       details: |
-    - name: Robotics and Automation
+    + name: Robotics and Automation
       authority: Udemy
       time: 2021
       link: 
       details: |      
 
-publications:
-  display: true
-  title: Publications
-  intro: |
-    This is all the books I wrote.
 
-  items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
-
-patents:
-  display: true
-  title: Patents
-  details: |
-    This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
-
-languages:
-  display: true
-  title: Languages
-  items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: Professional
 
 interests:
   display: true
-  title: Interests
+  title: Interests & Hobbies
   items:
-    - item: Reading
+    - item: Cleaning the beach during weekends in Chennai, India.
       link:
-    - item: Cooking
+    - item: Volunteering Blood donation camp in College
       link:
-
-evaluation:
-  display: true
-  title: Self-evaluation
-  details: |
-    Here is my self evaluation.
-    + First
-    + Second
-
-    ...
+    - item: Hiking during weekend and Ball Badminton
+      link:  
 
 footer:
   display: true
