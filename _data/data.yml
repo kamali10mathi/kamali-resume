@@ -77,11 +77,11 @@ skills:
   title: Skills 
   details: |
 
-    + Programming Language : Java, SQL
-    + Methodology          : Agile
-    + Framework            : Spring
-    + Tools                : Jira, Git, MS Suite, GSuite, IntelliJ
-    + Web Technologies     : HTML, CSS
+    - Programming Language : Java, SQL
+    - Methodology          : Agile
+    - Framework            : Spring
+    - Tools                : Jira, Git, MS Suite, GSuite, IntelliJ
+    - Web Technologies     : HTML, CSS
 
 education:
   display: true
