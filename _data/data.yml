@@ -153,11 +153,11 @@ interests:
   display: true
   title: Interests
   items:
-    + item: Cleaning the beach during weekends in Chennai, India.
+    - item: Cleaning the beach during weekends.
       link:
-    + item: Volunteering Blood donation camp in College
+    - item: Volunteering Blood donation camp in College.
       link:
-    + item: Hiking during weekend and Ball Badminton
+    - item: Hiking during weekend and Ball Badminton.
       link:  
 
 evaluation:
