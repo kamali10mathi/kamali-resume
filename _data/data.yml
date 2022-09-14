@@ -115,6 +115,21 @@ education:
         + Second
 
         ...
+        
+certificates_one:
+  display: true
+  title: Certifications
+  intro: 
+  items:
+    - name: Java Programming for Complete Beginners
+      link: https://www.udemy.com/certificate/UC-d31566d3-7f58-423a-a5eb-75d876f6dbf7/
+      details: |
+        IoT and Deep learning techniques to help elders in Pill recognition.
+
+    - name: Bar
+      link:
+      details: |
+        Project Bar's detail, you can write markdown format text.        
 
 certificates:
   display: true
