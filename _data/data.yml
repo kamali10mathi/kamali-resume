@@ -119,8 +119,55 @@ certificates:
       link: 
       details: |   
       
+publications:
+  display: true
+  title: Publications
+  intro: |
+    This is all the books I wrote.
+  items:
+    - title: Foo in Action
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link: https://www.google.com
+    - title: The Art of Bar
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link:
+
+patents:
+  display: true
+  title: Patents
+  details: |
+    This is all my patents.
+    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
+languages:
+  display: true
+  title: Languages
+  items:
+    - idiom: Chinese
+      level: Native
+    - idiom: English
+      level: Professional
+
+interests:
+  display: true
+  title: Interests
+  items:
+    - item: Reading
+      link:
+    - item: Cooking
+      link:
+
+evaluation:
+  display: true
+  title: Self-evaluation
+  details: |
+    Here is my self evaluation.
+    + First
+    + Second
+    ...
 footer:
-  display: false
+  display: true
 
 close: >
   Sorry, my resume has been hidden.
