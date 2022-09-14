@@ -30,7 +30,7 @@ profile:
   title: Profile
   details: |
     Reliable Graduate level Java developer eager to take on challenges and contribute to team success by prioritizing tasks and addressing problems willing to perform whatever task to support the team and the success of the company. Possesses excellent programming and communication skills.
-
+    Visa: Spouse 1G - Can begin working full-time without any limits today.
 experiences:
   display: true
   title: Experiences
@@ -67,69 +67,38 @@ projects:
       details: |
         IoT and Deep learning techniques to help elders in Pill recognition.
 
-    - name: Bar
+    - name: Liquid level monitoring system
       link:
       details: |
-        Project Bar's detail, you can write markdown format text.
+       Innovative device to monitor the liquid level.
 
 skills:
   display: true
-  title: Skills
+  title: Skills 
   details: |
-    Here is my skills:
-    + First
-    + Second
 
-    ...
-
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
+    + Programming Language : Java, SQL
+    + Methodology          : Agile
+    + Framework            : Spring
+    + Tools                : Jira, Git, MS Suite, GSuite
+    + Web Technologies     : HTML, CSS
 
 education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - university: Vivekananda College of Engineering For Women - Namakkal, India
+      time: 2018 - 2022
+      major: Electronic and Communication Engineering
+      degree: Bachelor's
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+        CGPA 8.1 - 1:1 Equivalent
+        + Received scholarship for excellent performance for two consecutive academic years.
+        + Awarded Best Female Leadership for excellent leadership and teamwork for conducting college event.
+        + Team member of college level Ball Badminton
+        + Elected to Assistant Representative for Electrical department representing 80+ students in 2021.
+        + Participated in National Level Workshop on Artificial Intelligence. Actively involved in IoT workshops.
         
-certificates_one:
-  display: true
-  title: Certifications
-  intro: 
-  items:
-    - name: Java Programming for Complete Beginners
-      link: https://www.udemy.com/certificate/UC-d31566d3-7f58-423a-a5eb-75d876f6dbf7/
-      details: |
-        IoT and Deep learning techniques to help elders in Pill recognition.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.        
 
 certificates:
   display: true
