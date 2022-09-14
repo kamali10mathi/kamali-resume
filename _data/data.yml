@@ -51,7 +51,7 @@ experiences:
       time: 2021-08 - 2021-11
       company: PanTech Technologies
       tag: Remote, part-time
-      location: Chennai
+      location: Chennai, India
       details: |
         Internet of Things (IoT) Training.
         + Documentation of design work on confluence page.
@@ -77,11 +77,11 @@ skills:
   title: Skills 
   details: |
 
-    - Programming Language : Java, SQL
-    - Methodology          : Agile
-    - Framework            : Spring
-    - Tools                : Jira, Git, MS Suite, GSuite
-    - Web Technologies     : HTML, CSS
+    + Programming Language : Java, SQL
+    + Methodology          : Agile
+    + Framework            : Spring
+    + Tools                : Jira, Git, MS Suite, GSuite, IntelliJ
+    + Web Technologies     : HTML, CSS
 
 education:
   display: true
@@ -120,7 +120,13 @@ certificates:
       link: 
       details: |      
 
-
+accomplisment:
+  display: true
+  title: Accomplisment
+  details: |
+  Collaborated with team of 5 to develop a web page for college using HTML, CSS.
+  
+    
 
 interests:
   display: true
