@@ -140,25 +140,6 @@ patents:
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
-languages:
-  display: true
-  title: Languages
-  items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: Professional
-
-interests:
-  display: true
-  title: Interests
-  items:
-    - item: Cleaning the beach during weekends.
-      link:
-    - item: Volunteering Blood donation camp in College.
-      link:
-    - item: Hiking during weekend and Ball Badminton.
-      link:  
 
 evaluation:
   display: true
