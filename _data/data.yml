@@ -61,11 +61,9 @@ experiences:
 projects:
   display: true
   title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
+  intro: 
   items:
-    - name: Foo
+    - name: Java Programming for Complete Beginners
       link: https://www.google.com
       details: |
         Project Foo's detail, you can write markdown format text.
@@ -123,16 +121,15 @@ certificates:
   display: true
   title: Certificates
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
-      details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
+    - name: Java Programming for Complete Beginners
+      authority: Udemy
+      time: 2022
+      link: https://www.udemy.com/certificate/UC-d31566d3-7f58-423a-a5eb-75d876f6dbf7/
+      details:
+    - name: Java (Basic)
+      authority: HackerRank
+      time: 2022
+      link: https://www.hackerrank.com/certificates/b1c81469a30b
       details: |
 
 publications:
