@@ -43,7 +43,7 @@ small {
         margin-bottom: $spacing-unit / 4;
 
         .section-title {
-            text-transform: uppercase;
+            text-transform: capitalize;
             font-size: $large-font-size;
             font-weight: $base-font-weight * 1.25;
             color: $theme-color;
