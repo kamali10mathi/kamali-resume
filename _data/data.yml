@@ -113,10 +113,10 @@ certificates:
       time: 2022
       link: https://www.hackerrank.com/certificates/b1c81469a30b
       details: |
-    - name: Robotics and Automation
-      authority: Udemy
+    - name: SQL (Basic
+      authority: HackerRank
       time: 2021
-      link: 
+      link: https://www.hackerrank.com/certificates/6476fdb8bd6c
       details: |   
       
 publications:
